@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/billymohajeri" target="blank"><img src="https://img.shields.io/twitter/follow/billymohajeri?logo=twitter&style=for-the-badge" alt="billymohajeri" /></a> </p>
 
-- 📫 How to reach me **billymohajeri**
+- 📫 How to reach me **billy.mohajeri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
