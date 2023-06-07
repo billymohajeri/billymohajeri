@@ -50,6 +50,6 @@
 <br />
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billymohajeri&" height="120" alt="billymohajeri" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=billymohajeri&show_icons=true&locale=en" height="120" alt="billymohajeri" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=billymohajeri&show_icons=true&locale=en&layout=compact" height="120" alt="billymohajeri" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=billymohajeri&show_icons=true&locale=en" height="120" alt="billymohajeri" />
 </p>
